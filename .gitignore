@@ -4,6 +4,7 @@
 .env
 .venv
 
+
 #folders to ignore
 testeIgnorar/
 #teste6
